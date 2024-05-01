@@ -15,7 +15,7 @@
 <p/>
 
 Welcome to my profile, most of my work is private. But I have some exciting projects here.
+#### Github Stats
 
-![Maxime Perraud Github Stats](https://github-readme-stats.vercel.app/api?username=Maxime-p&show_icons=true&include_all_commits=true&theme=radical)
-
-![Maxime Perraud Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime-p&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxime-p&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxime-p&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxime-p&theme=2077)
